@@ -1,8 +1,2 @@
 # Default ignored files
 /workspace.xml
-
-*.xml
-codeStyles
-*.iml
-*.pb
-.idea/
